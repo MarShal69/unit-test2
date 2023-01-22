@@ -1,3 +1,6 @@
+# SI Test demo
+
+[![Build status](https://ci.appveyor.com/api/projects/status/1xe8ra233axu12fx?svg=true)](https://ci.appveyor.com/project/MarShal69/unit-test2)
 # Домашнее задание к лекции «Unit-тестирование»
 
 ### **Важные моменты** 
